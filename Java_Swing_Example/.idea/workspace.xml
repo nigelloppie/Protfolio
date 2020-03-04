@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3c02c22-42e3-41aa-9709-22139b4997c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/ca/nscc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/ca/nscc/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/ca/nscc/Staff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Assignment2/ca/nscc/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/nscc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/nscc/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/nscc/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ca/nscc/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/umlclass.vsdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/ca/nscc/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/ca/nscc/Person.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1YUQbjH2EoPqYFJnkoPOHfv5zBO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PROG1400-OOP-SourceCode-LoppieN\Assignments\Assignment2\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.nscc.Main" />
+      <module name="Java_Swing_Example" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3c02c22-42e3-41aa-9709-22139b4997c0" name="Default Changelist" comment="" />
+      <created>1582994766772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582994766772</updated>
+      <workItem from="1582994770504" duration="3063000" />
+      <workItem from="1583020651169" duration="7800000" />
+      <workItem from="1583072801803" duration="2262000" />
+      <workItem from="1583081834990" duration="3242000" />
+      <workItem from="1583085131087" duration="682000" />
+      <workItem from="1583085903845" duration="968000" />
+      <workItem from="1583087125033" duration="13000" />
+      <workItem from="1583088951624" duration="796000" />
+      <workItem from="1583090611201" duration="251000" />
+      <workItem from="1583094064419" duration="708000" />
+      <workItem from="1583111083503" duration="1981000" />
+      <workItem from="1583113078295" duration="1163000" />
+      <workItem from="1583115978346" duration="460000" />
+      <workItem from="1583156434376" duration="912000" />
+      <workItem from="1583166937179" duration="1066000" />
+      <workItem from="1583169602780" duration="1397000" />
+      <workItem from="1583171722185" duration="1722000" />
+      <workItem from="1583205073623" duration="654000" />
+      <workItem from="1583270738355" duration="7069000" />
+      <workItem from="1583287294636" duration="47000" />
+    </task>
+    <task id="LOCAL-00001" summary="Assignment 2, ready for marking">
+      <created>1583279896113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583279896113</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Assignment 2, ready for marking" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 2, ready for marking" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1583026720035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="285" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583026720035" />
+    <state x="583" y="115" key="CommitChangelistDialog2" timestamp="1583279894818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583279894818" />
+    <state x="260" y="279" key="FileChooserDialogImpl" timestamp="1583156598377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="260" y="279" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583156598377" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1583279983574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583279983574" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1583279983574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583279983574" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1583279983574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583279983574" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1583279983574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583279983574" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1583279898155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583279898155" />
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583160745981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583160745981" />
+    <state x="0" y="145" key="new project wizard" timestamp="1583156600131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="145" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583156600131" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583112507986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583112507986" />
+  </component>
+</project>
